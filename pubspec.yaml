@@ -11,6 +11,10 @@ topics:
   - gestures
   - ime
 
+screenshots:
+  - description: "Animated: on iOS the keyboard follows the finger as the chat list is dragged down, then dismisses."
+    path: doc/demo.gif
+
 environment:
   sdk: ">=3.9.0 <4.0.0"
   flutter: ">=3.35.0"

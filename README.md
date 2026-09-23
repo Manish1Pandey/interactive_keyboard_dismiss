@@ -11,6 +11,10 @@ It solves [flutter/flutter#57609](https://github.com/flutter/flutter/issues/5760
 only earlier package, `flutter_interactive_keyboard`, has not been updated
 since 2021.
 
+![The iOS keyboard following the finger as the chat list is dragged down, then dismissing](doc/demo.gif)
+
+*Recorded on the iOS simulator from `example/`: the keyboard tracks the finger down, back up, and closes when the drag is carried through.*
+
 ## Install
 
 ```yaml
