@@ -1,3 +1,7 @@
+## 0.1.1
+
+* Documentation only: added a demo GIF showing the keyboard tracking a finger on an iOS simulator. No code changes.
+
 ## 0.1.0
 
 * First release.
