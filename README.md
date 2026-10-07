@@ -19,7 +19,7 @@ since 2021.
 
 ```yaml
 dependencies:
-  interactive_keyboard_dismiss: ^0.1.0
+  interactive_keyboard_dismiss: ^0.1.1
 ```
 
 Android: keep the default `android:windowSoftInputMode="adjustResize"` on your
