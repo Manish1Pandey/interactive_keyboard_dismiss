@@ -1,7 +1,7 @@
 name: interactive_keyboard_dismiss
 description: "iOS-style interactive keyboard dismissal for Flutter: the keyboard follows your finger as a scroll view is dragged into it, on iOS and Android 11+."
 version: 0.1.1
-homepage: https://github.com/Manish1Pandey/interactive_keyboard_dismiss
+homepage: https://flutterdev.in/packages/interactive_keyboard_dismiss/
 repository: https://github.com/Manish1Pandey/interactive_keyboard_dismiss
 issue_tracker: https://github.com/Manish1Pandey/interactive_keyboard_dismiss/issues
 topics:

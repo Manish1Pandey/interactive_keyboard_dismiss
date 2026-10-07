@@ -154,6 +154,12 @@ or hidden.
   author yet (only simulators and emulators). Please report device-specific
   issues with the output of `diagnostics()`.
 
+## Links
+
+- **Documentation:** [flutterdev.in/packages/interactive_keyboard_dismiss](https://flutterdev.in/packages/interactive_keyboard_dismiss/)
+- **More Flutter packages:** [flutterdev.in](https://flutterdev.in)
+- **Learn data structures & algorithms in Dart:** [Algoistan](https://algoistan.flutterdev.in)
+
 ## License
 
 MIT © 2026 Manish Kumar Panday
